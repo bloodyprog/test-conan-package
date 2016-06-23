@@ -38,7 +38,7 @@ matrix:
       env:
 
 install:
-  - ./travis_install.sh
+  - ./.travis/install.sh
 
 script:
-  - ./travis_script.sh
+  - ./.travis/run.sh
