@@ -11,7 +11,7 @@ env:
     - CONAN_UPLOAD=1
     - CONAN_REFERENCE="test-package/0.1"
     - CONAN_USERNAME="bloodyprog"
-    - CONAN_CHANNEL="testing"
+    - CONAN_CHANNEL="stable"
     - CONAN_TOTAL_PAGES=1
     - CONAN_CURRENT_PAGE=1
 
